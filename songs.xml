@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- title, artist, country, genre, year. -->
+<music>
+	<songs>
+        <title>Le temps est bon</title>
+		<artist>Isabelle Pierre</artist>
+		<country>France</country>
+        <youtube>https://www.youtube.com/watch?v=RMWBriHwVrI</youtube>
+		<year>1969</year>
+	</songs>
+    <songs>
+		<title>Guten Morgen</title>
+		<artist>Nana Mouskouri</artist>
+		<country>Greece</country>
+        <youtube>https://www.youtube.com/watch?v=Vshg-hNUEjo</youtube>
+		<year>1977</year>
+	</songs>
+    <songs>
+		<title>Here comes the sun</title>
+		<artist>Nina Simone</artist>
+		<country>USA</country>
+        <youtube>https://www.youtube.com/watch?v=1rCgM07uzq4</youtube>
+		<year>1971</year>
+	</songs>
+    <songs>
+		<title>Banana Boat</title>
+		<artist>Harry Belafonte</artist>
+		<country>USA</country>
+        <youtube>https://www.youtube.com/watch?v=6Tou8-Cz8is</youtube>
+		<year>1956</year>
+	</songs>
+    <songs>
+		<title>Kurt Sowinetz</title>
+		<artist>Alle Menschen san ma zwida</artist>
+		<country>Austria</country>
+        <youtube>https://www.youtube.com/watch?v=WXVupGhPVOg</youtube>
+		<year>1972</year>
+	</songs>
+        <songs>
+		<title>Viva la Vida</title>
+		<artist>Coldplay</artist>
+		<country>UK</country>
+        <youtube>https://www.youtube.com/watch?v=dvgZkm1xWPE</youtube>
+		<year>2008</year>
+	</songs>
+</music>
